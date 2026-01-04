@@ -12,7 +12,7 @@
                     <Collection>
                         <PropertyPath>Descrp</PropertyPath>
                         <PropertyPath>Lifnr</PropertyPath>
-                        <PropertyPath>Bukrs</PropertyPath>
+                     
                     </Collection>
                 </Annotation>
             </Annotations>

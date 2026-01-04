@@ -6,7 +6,7 @@
         <edmx:Include Namespace="cds_zproject_sd"/>
     </edmx:Reference>
     <edmx:DataServices>
-        <Schema xmlns="http://docs.oasis-open.org/odata/ns/edm" Namespace="local">
+        <Schem xmlns="http://docs.oasis-open.org/odata/ns/edm" Namespace="local">
             <Annotations Target="cds_zproject_sd.ZPROJECT_PHEADType">
                 <Annotation Term="UI.SelectionFields">
                     <Collection>
